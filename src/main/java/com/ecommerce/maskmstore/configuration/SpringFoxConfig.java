@@ -6,7 +6,7 @@ import springfox.documentation.builders.PathSelectors;
 import springfox.documentation.builders.RequestHandlerSelectors;
 import springfox.documentation.spi.DocumentationType;
 import springfox.documentation.spring.web.plugins.Docket;
-
+//http://localhost:2021/swagger-ui/index.html#/
 @Configuration
 public class SpringFoxConfig {
     @Bean
